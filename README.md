@@ -1,3 +1,5 @@
+# Part of the [CursorCult](https://github.com/CursorCult)
+
 # Pinocchio
 
 The Pinocchio Rule: avoid text that could become lies by keeping documentation local, minimal, and authoritative.
